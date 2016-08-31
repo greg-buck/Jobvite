@@ -520,7 +520,7 @@ button:focus {
 }
 
 .dark-image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(http://campbellhc.github.io/engagehireclix/images/inin/mountain2.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(https://github.com/greg-buck/Jobvite/blob/master/blackheader.jpg?raw=true);
   background-position: center top;
   background-size: cover;
 }
@@ -4011,3 +4011,4 @@ button:focus {
         display: none;
     }
 }
+
