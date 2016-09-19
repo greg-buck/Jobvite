@@ -506,7 +506,7 @@ button:focus {
   color: #fff;
 }
 .image-bg {
-  background: url(https://scontent.fash1-1.fna.fbcdn.net/v/t1.0-9/14368701_313406092385194_1800408689110121647_n.jpg?oh=2098c069f3b99ee631cbc2e9bf8bc087&oe=5870DE71);
+  background: url(https://raw.githubusercontent.com/greg-buck/Jobvite/master/blackheader.jpg);
   background-position: center top;
   background-size: cover;
   background-repeat: no-repeat;    
@@ -520,7 +520,7 @@ button:focus {
 }
 
 .dark-image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(http://campbellhc.github.io/engagehireclix/images/inin/mountain2.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(https://raw.githubusercontent.com/greg-buck/Jobvite/master/blackheader.jpg);
   background-position: center top;
   background-size: cover;
 }
