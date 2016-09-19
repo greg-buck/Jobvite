@@ -520,7 +520,7 @@ button:focus {
 }
 
 .dark-image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(https://raw.githubusercontent.com/greg-buck/Jobvite/master/blackheader.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(https://scontent.fash1-1.fna.fbcdn.net/v/t1.0-9/12705624_126525807739891_8547780275670840978_n.jpg?oh=c53833dd7e397e4ad5be5d2137dc0f9f&oe=587F3A7F);
   background-position: center top;
   background-size: cover;
 }
